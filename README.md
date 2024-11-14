@@ -31,7 +31,8 @@ Implementation using C or pyhton code
 
 
 ## PROGRAM:
-
+DEVELOPED BY:SUBHASHINI.B   
+REGISTERNUMBER: 212223040211
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -70,13 +71,8 @@ caesarDecrypt(message, key); printf("Decrypted Message: %s", message); return 0;
 
 ```
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
 ![Screenshot 2024-08-30 140122](https://github.com/user-attachments/assets/678628e0-793f-4153-905b-594d79e2c1ea)
 
-
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
 
 ## RESULT:
 The program is executed successfully
@@ -121,6 +117,9 @@ To decrypt, use the INVERSE (opposite) of the last 3 rules, and the 1st as-is (d
 
 
 ## PROGRAM:
+
+ DEVELOPED BY: SUBHASHINI.B 
+ REGISTER NUMBER:212223040211
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -279,10 +278,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-Output:
 ![Screenshot 2024-08-30 141053](https://github.com/user-attachments/assets/6c2ae3db-57ef-4005-a108-e445a119c22a)
-
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
 
 ## RESULT:
 The program is executed successfully
@@ -317,7 +313,8 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
-PROGRAM:
+DEVELOPED BY:SUBHASHINI.B   
+REGISTERNUMBER: 212223040211
 ```
 #include <stdio.h>
 #include <string.h>
@@ -400,7 +397,8 @@ The Vigenere cipher is a method of encrypting alphabetic text by using a series 
 
 
 ## PROGRAM:
-PROGRAM:
+DEVELOPED BY:SUBHASHINI.B   
+REGISTERNUMBER: 212223040211
 ```
 #include<stdio.h>
  #include<string.h>
@@ -434,7 +432,7 @@ char message[]= "Thisisasecretmessage.";//Replace withyourmessage
 //Decrypt themessage backtotheoriginal vigenereDecrypt(message,key); printf("DecryptedMessage:%s\n",message); Return 0;
 ```
 ## OUTPUT:
-OUTPUT :
+
 ![Screenshot 2024-08-30 142212](https://github.com/user-attachments/assets/e1783a9c-6589-4aa3-a3d3-f9c0b23b7353)
 
 
@@ -467,7 +465,8 @@ ALGORITHM DESCRIPTION:
 In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
 ## PROGRAM:
-
+DEVELOPED BY:SUBHASHINI.B    
+REGISTERNUMBER: 212223040211   
 ```
 #include<stdio.h>
 #include<string.h>
