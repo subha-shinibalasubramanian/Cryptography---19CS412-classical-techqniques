@@ -1,5 +1,6 @@
 # Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
+# Date:
 Caeser Cipher using with different key values
 
 # AIM:
@@ -84,7 +85,7 @@ The program is executed successfully
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
-
+# DATE:
 # AIM:
 
 To implement a program to encrypt a plain text and decrypt a cipher text using play fair Cipher substitution technique.
@@ -291,7 +292,7 @@ The program is executed successfully
 
 # Hill Cipher
 Hill Cipher using with different key values
-
+# DATE:
 # AIM:
 
 To develop a simple C program to implement Hill Cipher.
@@ -375,7 +376,7 @@ The program is executed successfully
 
 # Vigenere Cipher
 Vigenere Cipher using with different key values
-
+# DATE
 # AIM:
 
 To develop a simple C program to implement Vigenere Cipher.
@@ -444,7 +445,7 @@ The program is executed successfully
 
 # Rail Fence Cipher
 Rail Fence Cipher using with different key values
-
+# DATE:
 # AIM:
 
 To develop a simple C program to implement Rail Fence Cipher.
